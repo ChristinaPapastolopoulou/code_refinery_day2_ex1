@@ -1,5 +1,6 @@
 def square(a):
-    return(a+a)
+    "Return square of integer"
+    return(a ** a)
 
 
 def divide(a, b):
